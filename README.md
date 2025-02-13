@@ -36,7 +36,7 @@ Geliştirilen kodlar "barettanima.py" dosyası içindedir
 
 ### Kapı Açık ve Buzzer Ayarlarını Yapın
 
-## YAZARLAR:
+## KATKIDA BULUNAN:
 [@ofarukusta](https://github.com/ofarukusta) <br/>
 
 
